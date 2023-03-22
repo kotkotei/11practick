@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\bin\Debug\Pr11Sistem.exe.config
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\bin\Debug\Pr11Sistem.exe
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\bin\Debug\Pr11Sistem.pdb
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\obj\Debug\Pr11Sistem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\obj\Debug\Pr11Sistem.Form1.resources
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\obj\Debug\Pr11Sistem.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\obj\Debug\Pr11Sistem.ScreenShot.resources
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\obj\Debug\Pr11Sistem.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\obj\Debug\Pr11Sistem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\obj\Debug\Pr11Sistem.exe
+C:\Users\Lenovo\source\repos\Pr11Sistem\Pr11Sistem\obj\Debug\Pr11Sistem.pdb
